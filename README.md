@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zhangzhongnan928-mcp-evm-signer-badge.png)](https://mseep.ai/app/zhangzhongnan928-mcp-evm-signer)
+
 # MCP EVM Signer
 
 A Model Context Protocol (MCP) server for managing Ethereum private keys and deploying smart contracts using Infura. This server enables Claude for Desktop and other MCP clients to interact with EVM-compatible blockchains.
